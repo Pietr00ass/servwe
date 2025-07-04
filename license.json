@@ -1,0 +1,8 @@
+{
+  "licenses": {
+    "ABC123": {
+      "valid": true,
+      "expires": "2099-12-31"
+    }
+  }
+}
